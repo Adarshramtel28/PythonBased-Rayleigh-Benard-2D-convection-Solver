@@ -26,7 +26,7 @@ PythonBased-Rayleigh-Benard-2D-convection-Solver/
 - .gitignore               
 - README.md                # This file
 - requirements.txt         # Project dependencies
--
+
 - rb_convection_2d/        # Main Python source code
    - init.py
    - utils.py             # Setup, array creation, and file I/O
