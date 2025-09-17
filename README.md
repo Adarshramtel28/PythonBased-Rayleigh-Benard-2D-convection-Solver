@@ -22,27 +22,27 @@ This repository contains a Python code for simulating 2D Rayleigh-Bénard convec
 
 
 PythonBased-Rayleigh-Benard-2D-convection-Solver/
-│
-├── .gitignore               
-├── README.md                # This file
-├── requirements.txt         # Project dependencies
-│
-├── rb_convection_2d/        # Main Python source code
-│   ├── init.py
-│   ├── utils.py             # Setup, array creation, and file I/O
-│   ├── core_solvers.py      # The physics and math engine
-│   ├── post_processing.py   # Plotting and final data transformation
-│   └── run_simulation.py    # The main script for execution
-│
-├── visualization/
-│   └── create_animation.py  # Script to make GIFs from output
-│
-└── documentation/
-     └── project_presentation.pdf 
-     └── Thesis.pdf
+
+- .gitignore               
+- README.md                # This file
+- requirements.txt         # Project dependencies
+-
+- rb_convection_2d/        # Main Python source code
+   - init.py
+   - utils.py             # Setup, array creation, and file I/O
+   - core_solvers.py      # The physics and math engine
+   - post_processing.py   # Plotting and final data transformation
+   - run_simulation.py    # The main script for execution
+
+- visualization/
+   - create_animation.py  # Script to make GIFs from output
+  
+- documentation/
+   - project_presentation.pdf 
+   - Thesis.pdf
 ---
 
-## 🛠️ Setup and Installation
+##  Setup and Installation
 
 1.  **Clone the repository:**
     
