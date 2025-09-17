@@ -38,8 +38,8 @@ PythonBased-Rayleigh-Benard-2D-convection-Solver/
 │   └── create_animation.py  # Script to make GIFs from output
 │
 └── documentation/
-└── project_presentation.pdf 
-
+     └── project_presentation.pdf 
+     └── Thesis.pdf
 ---
 
 ## 🛠️ Setup and Installation
